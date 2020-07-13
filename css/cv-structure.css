@@ -3332,13 +3332,6 @@ p.lead {
   font-weight: 400;
 }
 
-.subheading {
-  font-family: 'Roboto Condensed', sans-serif;
-  text-transform: uppercase;
-  font-weight: 400;
-  font-size: 1.2rem;
-}
-
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
