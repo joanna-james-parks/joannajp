@@ -191,19 +191,19 @@ header.masthead {
 
 .btn-primary:hover {
   color: #f8f9fa;
-  background-color: #dc7646;
-  border-color:#dc7646;
+  background-color: #93ada4;
+  border-color:#93ada4;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #bfdbcf;
-  background-color: #dc7646;
-  border-color: #dc7646;
+  background-color: #93ada4;
+  border-color: #93ada4;
 
 }
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
   color: #bfdbcf;
-  background-color: #dc7646;
-  border-color: #dc7646;
+  background-color: #93ada4;
+  border-color: #93ada4;
 }
 .btn-outline-primary {
   color: #DB995A;
@@ -215,10 +215,10 @@ header.masthead {
   border-color: #DB995A;
 }
 .btn-outline-primary:focus, .btn-outline-primary.focus {
-  box-shadow: 0 0 0 0.2rem #dc7646;
+  box-shadow: 0 0 0 0.2rem #93ada4;
 }
 .btn-outline-primary.disabled, .btn-outline-primary:disabled {
-  color: #dc7646;
+  color: #93ada4;
   background-color: transparent;
 }
 .btn-outline-primary:not(:disabled):not(.disabled):active, .btn-outline-primary:not(:disabled):not(.disabled).active, .show > .btn-outline-primary.dropdown-toggle {
@@ -392,7 +392,7 @@ header.masthead {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: #dc7646;
+  background: #93ada4;
   align-items: center;
   justify-content: center;
   opacity: 0;
