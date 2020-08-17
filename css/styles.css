@@ -41,6 +41,9 @@ header.masthead {
   text-transform: uppercase;
   font-size: 2.75rem;
 }
+.last-name-highlight {
+  color: #f3a14b;
+}
 @media (max-width: 576px) {
   .masthead-full-name {
     font-family: 'Anton', sans-serif;
